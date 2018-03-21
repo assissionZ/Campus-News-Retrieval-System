@@ -8,9 +8,9 @@
 
 ### 效果图
 * 程序主界面<br>
-![]()
+![](https://github.com/assissionop/Campus-News-Retrieval-System/blob/master/readme-picture/1.png)
 * 对应的校园公文通<br>
-![]()
+![](https://github.com/assissionop/Campus-News-Retrieval-System/blob/master/readme-picture/2.png)
 
 ### 其他
 如果有什么疑问欢迎发邮件到 ass-op@qq.com 咨询
