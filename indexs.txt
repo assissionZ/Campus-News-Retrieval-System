@@ -1,0 +1,232 @@
+( 1 2.txt 1
+) 1 2.txt 1
+- 3 1.txt 2 2.txt 5 3.txt 2
+/ 1 2.txt 4
+00 3 1.txt 2 2.txt 1 3.txt 2
+1 1 2.txt 1
+10期 1 2.txt 2
+11 1 1.txt 1
+12 3 1.txt 1 2.txt 2 3.txt 1
+12月 3 1.txt 1 2.txt 11 3.txt 1
+13 1 3.txt 1
+13543266116 1 2.txt 1
+13823133867 1 2.txt 1
+13823317234 1 2.txt 1
+14 2 2.txt 1 3.txt 1
+15位 1 3.txt 1
+18 1 2.txt 1
+19日 1 2.txt 3
+2 1 2.txt 5
+20 1 1.txt 1
+2018 3 1.txt 1 2.txt 1 3.txt 1
+2018年 1 1.txt 1
+2019年 1 1.txt 2
+20日 1 2.txt 2
+21 1 3.txt 1
+21日 1 2.txt 2
+24 1 1.txt 1
+24日 1 2.txt 2
+25日 2 2.txt 2 3.txt 1
+26532283 1 2.txt 1
+27号 1 1.txt 1
+30 1 2.txt 12
+30分钟 1 2.txt 1
+4 1 2.txt 1
+40 1 2.txt 1
+45 2 2.txt 1 3.txt 1
+5 1 2.txt 1
+50 1 2.txt 1
+54 1 3.txt 1
+6 1 2.txt 1
+7 1 1.txt 1
+7047 1 2.txt 1
+8 1 2.txt 2
+8230 1 2.txt 1
+9 2 2.txt 5 3.txt 1
+9期 1 2.txt 1
+: 3 1.txt 3 2.txt 16 3.txt 4
+; 1 2.txt 1
+b 1 2.txt 1
+bm 1 2.txt 1
+e 1 2.txt 1
+“ 1 2.txt 1
+” 1 2.txt 1
+→ 1 2.txt 4
+、 2 2.txt 6 3.txt 2
+。 3 1.txt 2 2.txt 4 3.txt 4
+一名 1 1.txt 1
+一场 1 1.txt 1
+三 1 2.txt 2
+三排 1 3.txt 1
+上午 1 2.txt 6
+下 1 2.txt 1
+下午 2 2.txt 6 3.txt 1
+不 1 2.txt 1
+专题 1 2.txt 2
+东门 1 2.txt 1
+中层 1 2.txt 2
+举办 1 1.txt 1
+乘车 1 2.txt 3
+习近平 1 2.txt 2
+书面 1 2.txt 1
+事项 1 2.txt 1
+二 1 2.txt 1
+于参训 1 2.txt 1
+人员 1 2.txt 1
+会议厅 1 3.txt 1
+位置 1 2.txt 1
+体育馆 1 1.txt 1
+候选人 1 3.txt 1
+停车场 1 2.txt 1
+元平 1 1.txt 1
+党委 1 2.txt 1
+党政 2 1.txt 1 3.txt 1
+党校 1 2.txt 7
+入场 1 3.txt 1
+全校 1 3.txt 1
+公开 1 3.txt 1
+典礼 1 3.txt 3
+兹 1 3.txt 1
+内 1 2.txt 1
+出席 1 1.txt 1
+创新 1 1.txt 1
+前 2 2.txt 2 3.txt 1
+办公室 2 1.txt 1 3.txt 1
+办公楼 1 2.txt 1
+区域 1 1.txt 1
+单位 3 1.txt 1 2.txt 1 3.txt 1
+原因 1 2.txt 1
+参加 3 1.txt 2 2.txt 1 3.txt 4
+发展 1 1.txt 1
+发车 1 2.txt 2
+同学 1 3.txt 1
+后 1 2.txt 1
+后海 1 2.txt 1
+周 1 2.txt 4
+周二 1 2.txt 2
+周五 1 2.txt 2
+周四 1 2.txt 2
+嘉宾 1 3.txt 1
+国际 1 3.txt 1
+地点 1 2.txt 1
+坐 1 1.txt 1
+培训班 1 2.txt 2
+基层 1 2.txt 1
+大礼堂 1 2.txt 1
+奖 1 3.txt 3
+孙 1 2.txt 1
+学习 1 2.txt 2
+学员 1 2.txt 1
+学校 2 1.txt 1 3.txt 1
+学院 1 3.txt 1
+安排 2 1.txt 1 2.txt 4
+完毕 1 3.txt 1
+定于 2 1.txt 1 3.txt 1
+审批 1 2.txt 1
+就座 1 3.txt 1
+市委 1 2.txt 7
+师傅 1 2.txt 1
+师生 2 1.txt 1 3.txt 1
+席 1 3.txt 1
+干部 1 2.txt 2
+广东 1 2.txt 2
+张玉华 1 2.txt 1
+当天 1 3.txt 1
+总书记 1 2.txt 2
+总支 1 2.txt 1
+我校 2 1.txt 1 2.txt 1
+我部 1 2.txt 2
+报 1 2.txt 1
+报名 1 2.txt 1
+指定 1 1.txt 1
+提交 1 2.txt 1
+提前 1 2.txt 1
+揭晓 1 3.txt 1
+教学 1 3.txt 3
+文化 1 1.txt 2
+文艺 1 3.txt 1
+新年 1 1.txt 2
+无 1 2.txt 1
+时间 1 2.txt 1
+明天 1 2.txt 1
+星期二 1 3.txt 1
+晚上 1 1.txt 1
+暂 1 2.txt 1
+暨 1 3.txt 2
+期数 1 2.txt 1
+校党委 1 2.txt 1
+校区 1 2.txt 8
+校园 1 1.txt 1
+校本 1 2.txt 5
+校长 1 3.txt 3
+楼 1 2.txt 1
+汇总 1 2.txt 1
+活动 1 3.txt 1
+深圳大学 1 3.txt 2
+演出 1 3.txt 1
+潘筱茜 1 2.txt 1
+特此 1 3.txt 1
+现 1 2.txt 1
+现场 1 3.txt 1
+班次 1 2.txt 1
+班车 1 2.txt 1
+生活 1 1.txt 1
+相关 1 1.txt 1
+确认 1 2.txt 1
+程序 1 2.txt 1
+第1 1 2.txt 2
+第10期 1 2.txt 1
+第1期 1 2.txt 1
+第2期 1 2.txt 1
+第3期 1 2.txt 1
+第4期 1 2.txt 1
+第5 1 2.txt 1
+第5期 1 2.txt 1
+第6期 1 2.txt 1
+第7期 1 2.txt 1
+第8期 1 2.txt 1
+第9期 1 2.txt 1
+第二 1 3.txt 1
+第五届 1 3.txt 2
+粤 1 2.txt 2
+精彩 1 3.txt 1
+精神 2 1.txt 1 2.txt 2
+纲要 1 1.txt 1
+组织部 1 2.txt 2
+经理 1 2.txt 1
+老师 1 3.txt 1
+考勤 1 2.txt 1
+联系人 1 2.txt 1
+脚踏实地 1 2.txt 1
+获得者 1 3.txt 1
+落实 1 1.txt 1
+西丽 1 2.txt 7
+视察 1 2.txt 2
+讲 1 3.txt 1
+讲话 1 2.txt 2
+评审 1 3.txt 1
+评审会 1 3.txt 2
+诚邀 1 3.txt 1
+请 3 1.txt 1 2.txt 2 3.txt 1
+请假 1 2.txt 1
+课 1 3.txt 1
+调度 1 2.txt 1
+负责人 2 2.txt 1 3.txt 1
+贯彻 1 2.txt 2
+车 1 2.txt 1
+车辆 1 2.txt 2
+进一步 1 1.txt 1
+通知 3 1.txt 1 2.txt 2 3.txt 2
+部 1 2.txt 5
+部门 1 3.txt 1
+需 1 2.txt 1
+音乐会 1 1.txt 2
+须 1 2.txt 1
+颁奖 1 3.txt 2
+领导 1 1.txt 1
+黄志煌 1 2.txt 1
+（ 2 2.txt 17 3.txt 2
+） 2 2.txt 17 3.txt 2
+， 3 1.txt 4 2.txt 7 3.txt 4
+： 2 2.txt 23 3.txt 1
+； 1 2.txt 2
