@@ -59,7 +59,9 @@ public class Pre_Deal {
 		write_indexs();								//把index记录在txt中
 		write_d_len();								//把d_len记录在txt中
 		Date end_time = new Date(System.currentTimeMillis());
-		System.out.println(end_time.getTime() - start_time.getTime());
+		System.out.print("Finish! Cost ");
+		System.out.print(end_time.getTime() - start_time.getTime());
+		System.out.println(" ms.");
 	}
 	
 	//倒排索引，顺便记录d_len

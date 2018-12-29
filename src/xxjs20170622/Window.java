@@ -190,7 +190,7 @@ public class Window extends JFrame implements ActionListener{
 	public void show_result(TreeMap<Double, String> score_top, int hahaha) throws IOException{
 		int i=0;
 		txt_query.setText("");
-		File file_set = new File("D:\\data_complete");
+		File file_set = new File("data_complete");
 		File[] file_set_list = file_set.listFiles();
 		
 		BufferedReader reader = null;

@@ -134,7 +134,7 @@ public class Search_Deal {
 	@SuppressWarnings("resource")
 	public void read_indexs() throws IOException{
 		indexs = new TreeMap<String, TreeMap<String, Integer>>();
-		File file = new File("D:\\我的文档\\专业课文档\\信息检索\\信息检索大作业\\indexs.txt");
+		File file = new File("indexs.txt");
 		BufferedReader reader = new BufferedReader(new FileReader(file));
 		String line = null;
 		while((line = reader.readLine()) != null){
@@ -150,7 +150,7 @@ public class Search_Deal {
 	//读入d_len
 	public void read_d_len() throws IOException{
 		d_len = new TreeMap<String, Integer>();
-		File file = new File("D:\\我的文档\\专业课文档\\信息检索\\信息检索大作业\\d_len.txt");
+		File file = new File("d_len.txt");
 		BufferedReader reader = new BufferedReader(new FileReader(file));
 		String line = null;
 		while((line = reader.readLine()) != null){
