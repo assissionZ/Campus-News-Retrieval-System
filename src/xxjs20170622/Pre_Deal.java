@@ -195,8 +195,8 @@ public class Pre_Deal {
 			i++;
 		}
 		out = new FileOutputStream(new File("data_complete\\"+file.getName()));
-		System.out.println(danwei);
-		System.out.println(time1+" "+time2);
+//		System.out.println(danwei);
+//		System.out.println(time1+" "+time2);
 		out.write((line1+"\r\n").getBytes());
 		out.write((title+"\r\n").getBytes());
 		out.write((danwei+"\r\n").getBytes());
